@@ -1,0 +1,5 @@
+{
+  "name": "GLUCO-GUARD AI",
+  "description": "Predictive AI system for hypoglycemic prevention and emergency safety.",
+  "requestFramePermissions": ["geolocation"]
+}
